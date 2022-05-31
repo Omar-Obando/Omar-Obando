@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=omar-obando&label=Profile%20views&color=0e75b6&style=flat" alt="omar-obando" /> </p>
 
-- 🔭 I’m currently working on [Fiverr](https://www.fiverr.com/users/matrix_305/)
+- 🔭 I’m currently working on [Fiverr](https://www.fiverr.com/codigonica)
 
 - 🌱 I’m currently learning **Coursera**
 
