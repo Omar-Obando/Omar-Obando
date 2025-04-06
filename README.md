@@ -1,6 +1,6 @@
 <div align="center">
   <h1>
-    <img src="https://readme-typing-svg.herokuapp.com?font=Jetbrains+Mono&size=40&duration=3000&color=6537C6&center=true&vCenter=true&width=800&lines=Hola,+soy+Omar;Automatizaciones,+Webs,+Apps+y+más;Fundador+de+Código6" alt="Typing SVG"/>
+    <img src="https://readme-typing-svg.herokuapp.com?font=Jetbrains+Mono&size=40&duration=3000&color=6537C6&center=true&vCenter=true&width=800&lines=Hola,+soy+Omar;Automatizaciones,+Webs,+Apps+y+más;Fundador+de+Codigo6" alt="Typing SVG"/>
   </h1>
 </div>
 
